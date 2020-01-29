@@ -5,7 +5,7 @@ import { HomePageComponent } from './home-page/home-page.component';
 
 const routes: Routes = [
   { path: '', component: HomePageComponent },
-  //Lazy Loading setup
+  // Lazy Loading setup
   {
     path: 'login', loadChildren: () => import('./user/user.module')
     .then(m => m.UserModule)
