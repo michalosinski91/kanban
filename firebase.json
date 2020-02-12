@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/browser",
+    "public": "dist/kanban",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -9,10 +9,8 @@
     "rewrites": [ 
       {
         "source": "**",
-        "run": {
-          "serviceId": "kanban",
-          "region": "europe-west" 
-        }
+        "destination": "kanban/index.html"
       }
     ]
   }
+}
