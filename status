@@ -1,0 +1,77 @@
+[33mcommit 1783218854cccfa273492e176cbf5ba1b40f9caf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Thu Jan 30 12:36:39 2020 +0100
+
+    Add, update & delete functionality added
+
+[33mcommit f4a78abd8061c9dbecc3f0f62ba6ac8e4239f70b[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Thu Jan 30 11:29:42 2020 +0100
+
+    board and board list w/ drag/drop features added
+
+[33mcommit fd7dd93eb9b994a4f7a9462df10d1399d71fb1b3[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Thu Jan 30 10:37:50 2020 +0100
+
+    kanban module & DB model added
+
+[33mcommit dcacb417e5f952b3660808bae44782ee60455e07[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Wed Jan 29 15:54:39 2020 +0100
+
+    path guard service added
+
+[33mcommit 91026dbf854f85dd6619fdfddf8734f78db72a03[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Wed Jan 29 15:39:26 2020 +0100
+
+    email/password login form added
+
+[33mcommit 1f36383af437599e6e4c95b10cec28eabf51f73e[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Wed Jan 29 14:47:57 2020 +0100
+
+    google signin added
+
+[33mcommit 6c43bd09dc05ea68338673d30e8f8da403ca0da8[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Wed Jan 29 14:31:34 2020 +0100
+
+    user + login component /w lazy-loading added
+
+[33mcommit 3851563e7b9beccf7a4a9d0a1d9fe5b5cc30f4c3[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Wed Jan 29 14:24:43 2020 +0100
+
+    home page set up + firebase configured
+
+[33mcommit e2e456b599000ae7a16c5d3a7ac88c7f8f2b4ca4[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Wed Jan 29 12:00:17 2020 +0100
+
+    navbar & sidebar added
+
+[33mcommit 61d51c67168f90cf41fd3ecde7861c24de5e529e[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Wed Jan 29 11:21:30 2020 +0100
+
+    shared module added
+
+[33mcommit d0ee69aaac92452eaadba522eb06743d64e9bb75[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Wed Jan 29 11:05:12 2020 +0100
+
+    angular material & custom color theme added
+
+[33mcommit 1606aac860e26d9488a6a7f999ec2ec2307dffbd[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Wed Jan 29 10:56:28 2020 +0100
+
+    initial setup
+
+[33mcommit 2e1216bbf0cd646b47e7356214f6a259cbe28054[m
+Author: michalosinski91 <mosinski@hotmail.co.uk>
+Date:   Tue Jan 28 17:30:20 2020 +0100
+
+    initial commit

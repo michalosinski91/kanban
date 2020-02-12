@@ -12,8 +12,7 @@
     <mat-nav-list>
       <a mat-list-item routerLink="/" (click)="drawer.close()">Home</a>
       <a mat-list-item routerLink="/login" (click)="drawer.close()">Login</a>
-      <a mat-list-item routerLink="/kanban" (click)="drawer.close()">Kanban</a>
-      <a mat-list-item routerLink="/cusomers" (click)="drawer.close()">Customers</a>
+      <a mat-list-item routerLink="/kanban" (click)="drawer.close()">View Board</a>
     </mat-nav-list>
   </mat-sidenav>
 
@@ -28,12 +27,11 @@
       >
         <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
       </button>
-      <span class="logo" routerLink="/">Kanban</span>
+      <span class="logo" routerLink="/">MyKanban</span>
 
       <span class="fill-space"></span>
       <div *ngIf="!(isHandset$ | async)">
-        <a mat-button routerLink="/kanban">Kanban</a>
-        <a mat-button routerLink="/customers">Customers</a>
+        <a mat-button routerLink="/kanban">View Board</a>
         <a mat-button routerLink="/login">Login</a>
       </div>
 
@@ -44,6 +42,9 @@
       <mat-menu #menu="matMenu">
         <a mat-menu-item href="https://www.github.com">
           <span>Code on Github</span>
+        </a>
+        <a mat-menu-item href="https://www.michalosinski.dev">
+          <span>My Portfolio</span>
         </a>
       </mat-menu>
     </mat-toolbar>
